@@ -1,1 +1,1 @@
-# odin-recipes
+Simple test for using git and github alongside pulling/pushing to github
